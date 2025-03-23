@@ -4,7 +4,7 @@ const Login = () => {
   return (
     <div>
       <h1 class="text-3xl font-bold underline">
-        Login Page
+        L
       </h1>
     </div>
   )
